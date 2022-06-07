@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+}
+
+.location {
+  background: orange;
+  gap: 30px;
+  padding: 0 80px;
+}
+
+.logo-container,
+.location {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.logo-container h1 {
+  font-size: 30px;
+}
+
+.main {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 80px;
+}
+
+.main input {
+  width: 600px;
+  height: 40px;
+  border-radius: 100px;
+  padding: 10px;
+}
+
+.main button {
+  background: orange;
+  color: white;
+  padding: 20px 50px;
+  border: none;
+  border-radius: 50px;
+}
+
+.link {
+  background: black;
+  display: flex;
+  gap: 40px;
+  color: white;
+  padding: 20px 80px;
+  font-size: 24px;
+  justify-content: space-between;
+  align-items:center;www
+}
+
+.link div{
+
+  display: flex;
+ gap: 40px; 
+} 
+
+.link a {
+  text-decoration: none;
+  color: white;k
+}
+
+.link img {
+  width: 40px;
+}
+
+main img {
+  width: 100%;
+}
+
+.booklet {
+  display: flex;
+}
+
